@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$USER_HOME$/1902/.idea/1902.iml" filepath="$USER_HOME$/1902/.idea/1902.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dir.iml" filepath="$PROJECT_DIR$/.idea/dir.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../.idea/project.iml" filepath="$PROJECT_DIR$/../.idea/project.iml" />
+=======
+>>>>>>> Tom_dev
     </modules>
   </component>
 </project>
