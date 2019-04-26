@@ -1,6 +1,7 @@
 """
 交换变量
 """
+s = 100
 
 str_number01 = input("请输入第一个变量：")
 str_number02 = input("请输入第二个变量：")
